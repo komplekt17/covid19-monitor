@@ -2,6 +2,10 @@
 
 Monitoring world epidemic Covid-19
 
-### `npm install`
+### for setup
 
-### `npm start`
+`npm install`
+
+### To start
+
+`npm start`
