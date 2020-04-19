@@ -1,0 +1,11 @@
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.formControl {
+	background-color: #fff;
+	width: 30%;
+	margin-bottom: 30px !important;
+	padding: 10px;
+}

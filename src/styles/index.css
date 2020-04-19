@@ -12,3 +12,7 @@ code {
 	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
 		monospace;
 }
+
+.MuiNativeSelect-select.MuiNativeSelect-select {
+	padding-left: 10px !important;
+}

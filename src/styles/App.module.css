@@ -1,11 +1,7 @@
-body {
-	background-color: #fff;
-	/* background-color: #282c34; */
-}
-
 .container {
 	display: flex;
 	align-items: center;
+	justify-content: center;
 	flex-direction: column;
 }
 

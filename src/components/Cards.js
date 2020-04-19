@@ -3,6 +3,7 @@ import { Card, CardContent, Typography, Grid } from '@material-ui/core';
 import CountUp from 'react-countup';
 import cx from 'classnames';
 
+import { CircularProgress } from '@material-ui/core';
 import styles from '../styles/Cards.module.css';
 
 export const Cards = ({
@@ -10,7 +11,7 @@ export const Cards = ({
 }) => {
 	// console.log({ data });
 
-	if (!confirmed) return 'Loading...';
+	if (!confirmed) return <CircularProgress color="secondary" />;
 
 	return (
 		<div className={styles.container}>
