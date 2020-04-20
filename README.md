@@ -1,8 +1,9 @@
 ## Covid-19 Monitor
 
-Monitoring world epidemic Covid-19
+  Monitoring world epidemic Covid-19
+  Monitoring per countries
 
-![](https://github.com/komplekt17/Edu_Projects/blob/master/gifs/covid.gif)
+![](https://github.com/komplekt17/Test-Tasks/blob/master/gifs/covid.gif)
 
 ### for setup
 
